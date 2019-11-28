@@ -1,5 +1,5 @@
 ## Testing Basics on Android: Unit Testing
-Complementary material for the exercise included in the talk for the Meetup #25 from AndroidDevPeru. 
+Complementary material for the exercise included in the talk for the Meetup #25 from [@Android-Dev-Peru](https://github.com/Android-Dev-Peru). 
 
 You can check it out here: <https://www.icloud.com/keynote/0jqBRtnNXEWx9IUekoZj5yFcA#testing-basics-review>
 
